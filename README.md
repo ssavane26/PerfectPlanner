@@ -3,7 +3,8 @@
 ## Description
 
 A  simple calendar application that allows a user to save events for each hour of the day.
-## User Story
+
+Deployable Link: <a href="https://ssavane26.github.io/PerfectPlanner/">Perfect Planner!</a>
 
 ```md
 AS AN employee with a busy schedule
